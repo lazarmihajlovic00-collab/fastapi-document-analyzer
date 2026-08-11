@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (ako budemo imali tajne ključeve)
+.env
+
+# VS Code postavke (opciono)
+.vscode/
